@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dlin-oatutor-test/static/css/main.a48067ba.css",
-    "main.js": "/dlin-oatutor-test/static/js/main.e73cdf3f.js",
+    "main.js": "/dlin-oatutor-test/static/js/main.701e06fa.js",
     "static/media/Symbola.svg": "/dlin-oatutor-test/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/dlin-oatutor-test/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/dlin-oatutor-test/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/dlin-oatutor-test/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/dlin-oatutor-test/index.html",
     "main.a48067ba.css.map": "/dlin-oatutor-test/static/css/main.a48067ba.css.map",
-    "main.e73cdf3f.js.map": "/dlin-oatutor-test/static/js/main.e73cdf3f.js.map"
+    "main.701e06fa.js.map": "/dlin-oatutor-test/static/js/main.701e06fa.js.map"
   },
   "entrypoints": [
     "static/css/main.a48067ba.css",
-    "static/js/main.e73cdf3f.js"
+    "static/js/main.701e06fa.js"
   ]
 }
